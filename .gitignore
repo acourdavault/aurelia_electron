@@ -25,3 +25,9 @@ node_modules
 
 # Compiled files
 scripts
+
+# electron build results
+electron-build
+
+# temp file
+package-lock.json
